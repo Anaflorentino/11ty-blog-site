@@ -1,6 +1,6 @@
 ---
-title: Mudeeeei ╰(*°▽°*)╯ 
-author: Ana Beatriz M. Florentino
+title: Mudeeeei de novo pra testar ~_~ 
+author: Bia
 tags: ["post", "featured"]
 image: /assets/blog/article-5.jpg
 imageAlt: This is a blog post test
