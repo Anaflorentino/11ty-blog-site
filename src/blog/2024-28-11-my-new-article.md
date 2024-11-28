@@ -1,7 +1,6 @@
 ---
-title: YaaaY ╰(*°▽°*)╯ 
-author: Ana Florentino
-# date: 2024-11-28 # pode omitir, ele gera automaticamente
+title: Mudeeeei ╰(*°▽°*)╯ 
+author: Ana Beatriz M. Florentino
 tags: ["post", "featured"]
 image: /assets/blog/article-5.jpg
 imageAlt: This is a blog post test
