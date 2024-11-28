@@ -2,6 +2,7 @@
 title: Mudeeeei de novo pra testar ~_~ 
 author: Bia
 tags: ["post", "featured"]
+date: 2024-11-28
 image: /assets/blog/article-5.jpg
 imageAlt: This is a blog post test
 description: Gerei este novo artigo que está sendo injetado no meu blog.njk através de um loop de conteúdo. O loop observa o que tem dentro do meu blog-post.md e injeta na página de maneira dinâmica. Ou seja, sempre que outro artigo for criado, irá aparecer na página dinamicamente. Falta descobrir como consumir dados de API, como criar filtro de tags e como sugerir conteúdos com base na última busca do usuário.
